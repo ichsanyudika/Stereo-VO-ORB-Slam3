@@ -15,9 +15,9 @@
 
 ## Build & Run
 
-    git clone 
+    git clone https://github.com/ichsanyudika/stereo-VO-ORB-slam3.git
 
-    cd 
+    cd stereo-VO-ORB-slam3
 
     cmake ..
 
