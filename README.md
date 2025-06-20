@@ -1,8 +1,8 @@
 # Requirements
 
-- ZED SDK https://www.stereolabs.com/developers/
-
 - OpenCV 4.x + OpenCV Contrib
+
+- ZED SDK https://www.stereolabs.com/developers/
 
 - ORB-SLAM3 https://github.com/UZ-SLAMLab/ORB_SLAM3 
 
@@ -16,11 +16,8 @@
 ## Build & Run
 
     git clone https://github.com/ichsanyudika/stereo-VO-ORB-slam3.git
-
     cd stereo-VO-ORB-slam3
-
-    cmake ..
-
+    cmake ..   
     make
 
     ./vo
