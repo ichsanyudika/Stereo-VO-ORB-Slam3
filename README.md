@@ -1,14 +1,14 @@
 # Requirements
 
-- ZED SDK (https://www.stereolabs.com/developers/)
+- ZED SDK https://www.stereolabs.com/developers/
 
 - OpenCV 4.x + OpenCV Contrib
 
-- ORB-SLAM3 (https://github.com/UZ-SLAMLab/ORB_SLAM3)
+- ORB-SLAM3 https://github.com/UZ-SLAMLab/ORB_SLAM3
 
 - Eigen3 (Library for Headers)
 
-- Pangolin (Display GUI 3D-Slam)
+- Pangolin (Display for GUI 3D-Slam)
 
 - Make Sure Your Camera is Properly Calibrated Before Running the System
 
