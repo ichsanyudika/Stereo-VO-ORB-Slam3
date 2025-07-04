@@ -24,6 +24,6 @@
 
 ## Simulation 
 
-[![Watch the demo](https://img.youtube.com/vi/OExF3x4gBC8/0.jpg)](https://youtu.be/OExF3x4gBC8)
+https://img.youtube.com/vi/OExF3x4gBC8/0.jpg)](https://youtu.be/OExF3x4gBC8
 
 ## Reference : https://github.com/avisingh599/mono-vo.git
